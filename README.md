@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annuj</h1>
-<h3 align="center">Driving Strategic Insights through Advanced Analytics and Business Intelligence in the Video Game Industry</h3>
+<h3 align="center">I am passionate about driving strategic insights through advanced analytics and business intelligence in the video game industry</h3>
 
 - ☕ If you love Coffee, check out my Starbucks Project! [Starbucks Voice Order](https://github.com/ajkam/Starbucks-Voice-Order)
 
