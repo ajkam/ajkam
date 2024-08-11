@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajkam](https://github.com/ajkam)
 
-- 💬 Ask me about **Cooking with 30+ Allergies, Nintendo Games, LOL Esports,**
+- 💬 Ask me about **Cooking with 30+ Allergies, Nintendo Games, LOL Esports**
 
 - 🎮  I am Currently Playtesting 👻➗ [Spectre Divide](https://playspectre.com) **and** ❌❌👊🅾️ ([2XKO]https://2xko.riotgames.com/en-us/)
   
