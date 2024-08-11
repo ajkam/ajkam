@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annuj</h1>
-<h3 align="center">Highly motivated Data Analyst who is super passionate finding insights in videogames!</h3>
+<h3 align="center">Highly motivated Data Analyst who is super passionate finding insights in the videogame industry!</h3>
 
 - ☕ If you love Coffee, check out my Starbucks Project! [Starbucks Voice Order](https://github.com/ajkam/Starbucks-Voice-Order)
 
