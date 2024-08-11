@@ -3,8 +3,6 @@
 
 - ☕ If you love Coffee, check out my Starbucks Project! [Starbucks Voice Order](https://github.com/ajkam/Starbucks-Voice-Order)
 
-- 🌱 I’m currently learning **Unity and Unreal Engine for Fun!**
-
 - 👮 I did some cool work for the Toronto Police Services [Toronto Police Patrol Heatmap](https://github.com/ajkam/Toronto-Police-Patrol-Heatmap)
 
 - 🎓 I lead a team to create a recommendation engine [Job Recommendation Engine](https://github.com/ajkam/Job-Recommendation-Engine)
@@ -14,6 +12,9 @@
 - 💬 Ask me about **Cooking with 30+ Allergies, Nintendo Games, LOL Esports,**
 
 - 🎮  I am Currently Playtesting 👻➗ [Spectre Divide](https://playspectre.com) **and** ❌❌👊🅾️ ([2XKO]https://2xko.riotgames.com/en-us/)
+  
+- 🌱 I’m currently learning **Unity and Unreal Engine for Fun!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
