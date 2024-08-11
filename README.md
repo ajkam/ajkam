@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Cooking with 30+ Allergies, Nintendo Games, LOL Esports,**
 
-- 📫 I am Currently Playtesting [Spectre Divide](https://playspectre.com) **and** ([2XKO]https://2xko.riotgames.com/en-us/)
+- 🎮  I am Currently Playtesting 👻➗ [Spectre Divide](https://playspectre.com) **and** ❌❌👊🅾️ ([2XKO]https://2xko.riotgames.com/en-us/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
