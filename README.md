@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Annuj</h1>
 <h3 align="center">I am passionate about driving strategic insights through advanced analytics and business intelligence in the video game industry</h3>
 
-- ☕ If you love Coffee, check out my Starbucks Project! [Starbucks Voice Order](https://github.com/ajkam/Starbucks-Voice-Order)
+- ☕ If you love Coffee, check out my team's Starbucks Project: [Starbucks Voice Order](https://github.com/ajkam/Starbucks-Voice-Order)
 
-- 👮 I did some cool work for the Toronto Police Services [Toronto Police Patrol Heatmap](https://github.com/ajkam/Toronto-Police-Patrol-Heatmap)
+- 👮 My colleagues and I did some cool work for the Toronto Police Services: [Toronto Police Patrol Heatmap](https://github.com/ajkam/Toronto-Police-Patrol-Heatmap)
 
-- 🎓 I lead a team to create a recommendation engine [Job Recommendation Engine](https://github.com/ajkam/Job-Recommendation-Engine)
+- 🎓 I lead a team to create a recommendation engine: [Job Recommendation Engine](https://github.com/ajkam/Job-Recommendation-Engine)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajkam](https://github.com/ajkam)
 
