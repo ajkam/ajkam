@@ -16,10 +16,13 @@
 - 🌱 I’m currently learning **Unity and Unreal Engine for Fun!**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajkam" height="30" width="40" /></a>
 </p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ajkam)](https://leetcode.com/ajkam)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
