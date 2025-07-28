@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajkam](https://github.com/ajkam)
 
-- 💬 Ask me about **Cooking with 30+ Allergies, Nintendo Games, LOL Esports**
+- 💬 Ask me about **Cooking with 30+ Allergies, GTA, Nintendo Games, LOL Esports**
 
 - 🎮  I am Currently Playing Expidition 33 
   
