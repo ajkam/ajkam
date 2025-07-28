@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annuj</h1>
-<h3 align="center">I am passionate about driving strategic insights through advanced analytics and business intelligence</h3>
+<h3 align="center">I am passionate about driving data-driven project management and game development</h3>
 
 - ☕ If you love Coffee, check out my team's Starbucks Project: [Starbucks Voice Order](https://github.com/ajkam/Starbucks-Voice-Order)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cooking with 30+ Allergies, Nintendo Games, LOL Esports**
 
-- 🎮  I am Currently Playtesting 👻➗ [Spectre Divide](https://playspectre.com) **and** ❌❌👊🅾️ ([2XKO]https://2xko.riotgames.com/en-us/)
+- 🎮  I am Currently Playing Expidition 33 
   
 - 🌱 I’m currently learning **Unity and Unreal Engine for Fun!**
 
